@@ -1,4 +1,4 @@
-# Digital-Literacy-Project# Digital Literacy Portfolio
+# Digital Literacy Portfolio
 
 ## 👤 Student Details
 - Name: Jayendra Mahatkar
